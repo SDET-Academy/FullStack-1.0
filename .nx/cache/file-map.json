@@ -1,0 +1,200 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.8",
+  "deps": {},
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".idea/.gitignore",
+        "hash": "15093428145222381656"
+      },
+      {
+        "file": ".idea/FullStack-101.iml",
+        "hash": "7210100432694438571"
+      },
+      {
+        "file": ".idea/compiler.xml",
+        "hash": "9993469519340081672"
+      },
+      {
+        "file": ".idea/dataSources.xml",
+        "hash": "4306782730181254196"
+      },
+      {
+        "file": ".idea/encodings.xml",
+        "hash": "4469034012458474127"
+      },
+      {
+        "file": ".idea/git_toolbox_prj.xml",
+        "hash": "15025719909834120292"
+      },
+      {
+        "file": ".idea/gradle.xml",
+        "hash": "6526893642530055180"
+      },
+      {
+        "file": ".idea/jarRepositories.xml",
+        "hash": "14032484702175547198"
+      },
+      {
+        "file": ".idea/jpa-buddy.xml",
+        "hash": "14260666399681343962"
+      },
+      {
+        "file": ".idea/misc.xml",
+        "hash": "7210127370693919145"
+      },
+      {
+        "file": ".idea/modules.xml",
+        "hash": "14654461881512457277"
+      },
+      {
+        "file": ".idea/vcs.xml",
+        "hash": "14600148892634157659"
+      },
+      {
+        "file": "Backend/.gitignore",
+        "hash": "13117984693027047402"
+      },
+      {
+        "file": "Backend/.mvn/wrapper/maven-wrapper.jar",
+        "hash": "5725047474660621134"
+      },
+      {
+        "file": "Backend/.mvn/wrapper/maven-wrapper.properties",
+        "hash": "2423287996049141608"
+      },
+      {
+        "file": "Backend/mvnw",
+        "hash": "12094949662938918326"
+      },
+      {
+        "file": "Backend/mvnw.cmd",
+        "hash": "15292186640087768995"
+      },
+      {
+        "file": "Backend/pom.xml",
+        "hash": "11574586958105516954"
+      },
+      {
+        "file": "Backend/src/main/java/akros/events/backend/BackendApplication.java",
+        "hash": "5808402281110941124"
+      },
+      {
+        "file": "Backend/src/main/resources/application.properties",
+        "hash": "4055606894390288348"
+      },
+      {
+        "file": "Backend/src/test/java/akros/events/backend/BackendApplicationTests.java",
+        "hash": "4757490383432704465"
+      },
+      {
+        "file": "DB/docker-compose.yml",
+        "hash": "6297098378321222460"
+      },
+      {
+        "file": "Frontend.iml",
+        "hash": "5027172369669713493"
+      },
+      {
+        "file": "Frontend/.editorconfig",
+        "hash": "6686520031028425313"
+      },
+      {
+        "file": "Frontend/.gitignore",
+        "hash": "13044518069027839699"
+      },
+      {
+        "file": "Frontend/.vscode/extensions.json",
+        "hash": "5331566439708925252"
+      },
+      {
+        "file": "Frontend/.vscode/launch.json",
+        "hash": "17038929134016848735"
+      },
+      {
+        "file": "Frontend/.vscode/tasks.json",
+        "hash": "5336636969995539451"
+      },
+      {
+        "file": "Frontend/README.md",
+        "hash": "3881106448939508777"
+      },
+      {
+        "file": "Frontend/angular.json",
+        "hash": "12150510799670142677"
+      },
+      {
+        "file": "Frontend/package-lock.json",
+        "hash": "10959488426999909182"
+      },
+      {
+        "file": "Frontend/package.json",
+        "hash": "4642928310254392007"
+      },
+      {
+        "file": "Frontend/src/app/app.component.css",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "Frontend/src/app/app.component.html",
+        "hash": "6880513722212066549"
+      },
+      {
+        "file": "Frontend/src/app/app.component.spec.ts",
+        "hash": "8735585971533960990"
+      },
+      {
+        "file": "Frontend/src/app/app.component.ts",
+        "hash": "3040544354599202521"
+      },
+      {
+        "file": "Frontend/src/app/app.config.ts",
+        "hash": "5428614352870646528"
+      },
+      {
+        "file": "Frontend/src/app/app.routes.ts",
+        "hash": "12397496131277534773"
+      },
+      {
+        "file": "Frontend/src/assets/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "Frontend/src/favicon.ico",
+        "hash": "3988961587069885523"
+      },
+      {
+        "file": "Frontend/src/index.html",
+        "hash": "6684945852708409814"
+      },
+      {
+        "file": "Frontend/src/main.ts",
+        "hash": "4927504514031276065"
+      },
+      {
+        "file": "Frontend/src/styles.css",
+        "hash": "5195668842064076916"
+      },
+      {
+        "file": "Frontend/tsconfig.app.json",
+        "hash": "17337579397915052279"
+      },
+      {
+        "file": "Frontend/tsconfig.json",
+        "hash": "6830907402848794383"
+      },
+      {
+        "file": "Frontend/tsconfig.spec.json",
+        "hash": "15575553540147145788"
+      },
+      {
+        "file": "README.md",
+        "hash": "18238103107163581132"
+      }
+    ]
+  }
+}
